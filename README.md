@@ -1,2 +1,3 @@
 # final_project_template
-In-class practice of HTML/CSS/Bootstrap for a sample final project template
+
+Competition time! We will be using this starter template to practice HTML, CSS and Bootstrap in teams.  
