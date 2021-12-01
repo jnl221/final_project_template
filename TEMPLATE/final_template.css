@@ -1,5 +1,11 @@
 /*This is the affiliated CSS sheet for final_template.html.*/
 
+h1, h3 {
+	font-family: 'Georgia', serif;
+}
+p, .lead {
+	font-family: 'Helvetica Neue', sans-serif;
+}
 button {
 	margin-left: 10px;
 }
