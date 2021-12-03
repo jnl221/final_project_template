@@ -1,0 +1,9 @@
+/*This is the CSS answer sheet for final_bootstrap.html.*/
+
+.accordion-button {
+	color: steelblue;
+	font-weight: bold;
+}
+button {
+	margin-left: 10px;
+}
