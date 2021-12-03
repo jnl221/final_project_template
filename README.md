@@ -5,8 +5,7 @@
 * Answer files: final_answers.html, final_answers.css, final_bootstrap_answers.html, final_bootstrap_answers.css.  
 * TEMPLATE: contains sample Bootstrap template - you should use this to build your own Bootstrap-based template for your final project.  
 
-
-
+## Competition rules:  
 Competition time! We will be using this starter template to practice HTML, CSS and Bootstrap in teams.  
 
 Syntax, placement, best practices all count in this competition, so think about how you are indenting things and where you're placing things.  
