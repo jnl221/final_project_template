@@ -3,7 +3,7 @@
 ## Directory:  
 * Files students filled out for competition: final.html, final.css, final_bootstrap.html, final_bootstrap.css. Final.css is connected to final.html; final_bootstrap.css is connected to final_bootstrap.html.  
 * Answer files: final_answers.html, final_answers.css, final_bootstrap_answers.html, final_bootstrap_answers.css.  
-* TEMPLATE: contains sample Bootstrap template - you should use this to build your own Bootstrap-based template for your final project.  
+* TEMPLATE: contains sample Bootstrap template, including HTML and CSS files - you should use this to build your own Bootstrap-based template for your final project.  
 
 Competition time! We will be using this starter template to practice HTML, CSS and Bootstrap in teams.  
 
